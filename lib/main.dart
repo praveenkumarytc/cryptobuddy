@@ -20,7 +20,7 @@ class CryptoBuddy extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Crypto Buddy',
+      title: 'Crypto Buddy APP',
       theme: ThemeData(primarySwatch: Colors.teal),
       home: const Splash(),
     );
